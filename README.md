@@ -12,7 +12,7 @@ Demo coming soon
 ## If project complete:
 
 Use [CleanShot](https://setapp.com/apps/cleanshot) for screenshot
-Use [Screely](https://th-project-flashcards.netlify.app/) for a screenshot mockup
+Use [Screely](https://www.screely.com/) for a screenshot mockup
 
 [Click Here to Demo](https://github.com/Kitkatnik/repo-template/)
 
